@@ -1,4 +1,4 @@
-# README #
+# Overview #
 
 ### This is an application in Kotlin which represents a catalogue for the latest movies categorized by different sorting. The application contains two screens as described below.
 
