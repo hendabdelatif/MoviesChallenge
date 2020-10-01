@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Hind/AndroidStudioProjects/MoviesChallenge/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_catalogue.xml",
+        "source": "/Users/Hind/AndroidStudioProjects/MoviesChallenge/app/src/main/res/layout/activity_catalogue.xml"
+    },
+    {
+        "merged": "/Users/Hind/AndroidStudioProjects/MoviesChallenge/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_details.xml",
+        "source": "/Users/Hind/AndroidStudioProjects/MoviesChallenge/app/src/main/res/layout/activity_details.xml"
+    },
+    {
+        "merged": "/Users/Hind/AndroidStudioProjects/MoviesChallenge/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_movie.xml",
+        "source": "/Users/Hind/AndroidStudioProjects/MoviesChallenge/app/src/main/res/layout/item_movie.xml"
+    }
+]
